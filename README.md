@@ -1,4 +1,4 @@
-Fate/Extraのフォントテクスチャを作成する際に使用したテンプレートと収録文字一覧です。
+[Fate/Extraのフォントテクスチャ](https://github.com/SIEBEN5106/Fate-EXTRA-Japanese-HD-Font)を作成する際に使用したテンプレートと収録文字一覧です。
 
 
 テンプレート対応表
